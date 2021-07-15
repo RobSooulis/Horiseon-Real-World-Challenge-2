@@ -22,7 +22,7 @@ body {
 }
 
 .header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
 }
 
@@ -44,6 +44,10 @@ body {
 }
 
 .header header ul li {
+<<<<<<< HEAD
+=======
+    display: inline;
+>>>>>>> 867c3161942c96e33f98a289dfeb2eb30df317aa
     margin-left: 25px;
     display: flex
 }
